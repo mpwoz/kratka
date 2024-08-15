@@ -1,7 +1,8 @@
 [package]
 name = "kratka_ldtk"
-version = "0.1.0"
+description = "LDTK importing for kratka"
+version = "0.0.1-alpha.1"
 edition = "2021"
 
 [dependencies]
-kratka = { version = "0.1.0", path = "../kratka" }
+kratka = { path = "../kratka" }

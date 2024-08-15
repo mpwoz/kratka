@@ -1,8 +1,9 @@
 [package]
 name = "kratka_bevy"
-version = "0.1.0"
+description = "Bevy integrations for kratka"
+version = "0.0.1-alpha.1"
 edition = "2021"
 
 [dependencies]
 bevy = { version = "0.14.1", default-features = false }
-kratka = { version = "0.1.0", path = "../kratka" }
+kratka = { path = "../kratka" }

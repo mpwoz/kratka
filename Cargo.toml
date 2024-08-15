@@ -1,7 +1,6 @@
-[package]
-resolver = "2"
-
 [workspace]
+authors = ["Martin Wozniewicz <martin.woz@gmail.com>"]
+resolver = "2"
 members = [
     "kratka",
     "kratka_bevy",
