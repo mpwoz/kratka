@@ -8,10 +8,16 @@ Anything that comes up during development, not really intended for consumers of 
 - I'm attempting to use `cargo smart-release` to release multiple crates from a single workspace: https://crates.io/crates/cargo-smart-release
 
 
-## Helpful links
+## Publishing Libraries
 
 - Publishing crates to crates.io https://doc.rust-lang.org/cargo/reference/publishing.html
 - Semver examples https://regex101.com/r/Ly7O1x/3/
+
+
+## Grid system reading
+
+- Draw fewer tiles - by using a Dual-Grid system! https://www.youtube.com/watch?v=jEWFSv3ivTg
+- Deepnight grid-based games with smooth movement https://deepnight.net/tutorial/a-simple-platformer-engine-part-1-basics/
 
 
 ## Todo
