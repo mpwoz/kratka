@@ -1,7 +1,8 @@
 [package]
 name = "kratka"
 description = "Grid essentials to build upon for the Bevy engine (DRAFT)"
-version = "0.0.1-alpha.1"
 edition = "2021"
+license-file = "../LICENSE"
+version = "0.0.1-alpha.1"
 
 [dependencies]
