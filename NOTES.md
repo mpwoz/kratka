@@ -11,6 +11,7 @@ Anything that comes up during development, not really intended for consumers of 
 ## Helpful links
 
 - Publishing crates to crates.io https://doc.rust-lang.org/cargo/reference/publishing.html
+- Semver examples https://regex101.com/r/Ly7O1x/3/
 
 
 ## Todo
