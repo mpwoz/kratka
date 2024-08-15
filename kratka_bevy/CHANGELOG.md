@@ -13,7 +13,7 @@ First release
 
 <csr-read-only-do-not-edit/>
 
- - 6 commits contributed to the release.
+ - 8 commits contributed to the release.
  - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -24,6 +24,8 @@ First release
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Changelog entries ([`077bc49`](https://github.com/mpwoz/kratka/commit/077bc4948f6814bb0deee3a2a7e41dba27752146))
+    - Adjusting changelogs prior to release of kratka_bevy v0.0.1-alpha.1, kratka_ldtk v0.0.1-alpha.1 ([`a1d50f4`](https://github.com/mpwoz/kratka/commit/a1d50f47836525bdb9b931951790f8392aa8b7ff))
     - Adjusting changelogs prior to release of kratka_bevy v0.0.1-alpha.1, kratka_ldtk v0.0.1-alpha.1 ([`034b9d6`](https://github.com/mpwoz/kratka/commit/034b9d667f9be635f30c2c39654ea1dc1b022cb1))
     - Changelog ([`ff343c3`](https://github.com/mpwoz/kratka/commit/ff343c3651ee031b8ea67a36385ab28e93dfddba))
     - Adjusting changelogs prior to release of kratka v0.0.2 ([`d879546`](https://github.com/mpwoz/kratka/commit/d87954619f061e2a85bf5da89b797f417d544e6c))
