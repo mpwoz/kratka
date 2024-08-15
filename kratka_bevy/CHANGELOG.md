@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 5 commits contributed to the release.
+ - 6 commits contributed to the release.
  - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Adjusting changelogs prior to release of kratka_bevy v0.0.1-alpha.1, kratka_ldtk v0.0.1-alpha.1 ([`034b9d6`](https://github.com/mpwoz/kratka/commit/034b9d667f9be635f30c2c39654ea1dc1b022cb1))
     - Changelog ([`ff343c3`](https://github.com/mpwoz/kratka/commit/ff343c3651ee031b8ea67a36385ab28e93dfddba))
     - Adjusting changelogs prior to release of kratka v0.0.2 ([`d879546`](https://github.com/mpwoz/kratka/commit/d87954619f061e2a85bf5da89b797f417d544e6c))
     - Add readmes to subcrates ([`8de0eac`](https://github.com/mpwoz/kratka/commit/8de0eac17dc78ebe4ed783e280a85e7f39c1f0a7))
