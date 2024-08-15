@@ -1,0 +1,9 @@
+[package]
+resolver = "2"
+
+[workspace]
+members = [
+    "kratka",
+    "kratka_bevy",
+    "kratka_ldtk"
+]
