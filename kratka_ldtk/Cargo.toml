@@ -5,4 +5,4 @@ version = "0.0.1-alpha.1"
 edition = "2021"
 
 [dependencies]
-kratka = { version = "0.0.1-alpha.1", path = "../kratka" }
+kratka = { version = "^0.0.2", path = "../kratka" }
