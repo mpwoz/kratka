@@ -13,7 +13,7 @@ First release
 
 <csr-read-only-do-not-edit/>
 
- - 7 commits contributed to the release.
+ - 9 commits contributed to the release.
  - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -24,6 +24,8 @@ First release
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Adds a license to subcrates ([`2636024`](https://github.com/mpwoz/kratka/commit/26360249e078cf354ee487be0762b96ee95cb8d5))
+    - Release kratka_bevy v0.0.1-alpha.1, kratka_ldtk v0.0.1-alpha.1 ([`005d5a2`](https://github.com/mpwoz/kratka/commit/005d5a23df863997560d35f298416f83261674de))
     - Changelog entries ([`077bc49`](https://github.com/mpwoz/kratka/commit/077bc4948f6814bb0deee3a2a7e41dba27752146))
     - Adjusting changelogs prior to release of kratka_bevy v0.0.1-alpha.1, kratka_ldtk v0.0.1-alpha.1 ([`a1d50f4`](https://github.com/mpwoz/kratka/commit/a1d50f47836525bdb9b931951790f8392aa8b7ff))
     - Changelog ([`7248e70`](https://github.com/mpwoz/kratka/commit/7248e70863109ee2944f7582ef4f14d7922b8bd3))
