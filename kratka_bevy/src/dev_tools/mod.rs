@@ -4,6 +4,9 @@ use crate::GridPosition;
 
 pub fn plugin(app: &mut App) {
     app.add_systems(Update, draw_overlay);
+
+    // reflection
+    app.register_type::<GridDevTools>();
 }
 
 #[derive(Component, Debug, Reflect, Default)]

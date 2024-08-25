@@ -1,6 +1,12 @@
 use std::ops::Range;
 use bevy::prelude::*;
 use super::*;
+
+pub fn plugin(app: &mut App) {
+    // reflection
+    app.register_type::<GridLayout>();
+}
+
 #[derive(Component, Debug, Reflect)]
 #[reflect(Component)]
 pub struct GridLayout {

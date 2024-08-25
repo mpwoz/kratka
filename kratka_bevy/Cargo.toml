@@ -11,3 +11,8 @@ kratka = { version = "^0.0.2", path = "../kratka" }
 
 [dev-dependencies]
 test-case = "3.3.1" # for data row unit tests
+
+# egui for easy example tweaking
+bevy-inspector-egui = { version = "0.25.1" }
+bevy_egui = { version = "0.28.0" }
+egui = { version = "0.28.1" }
