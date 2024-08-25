@@ -36,3 +36,9 @@
 - select an entity on a given grid position when clicking
 - move an entity to another square by dragging
 - box-select a set of entities by clicking/dragging on the grid
+
+
+## Other grid types
+
+- isometric "2.5d"
+- hexagons
