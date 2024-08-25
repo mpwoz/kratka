@@ -15,8 +15,8 @@ impl Default for GridLayout {
     fn default() -> Self {
         GridLayout {
             square_size: 32.,
-            width: 20,
-            height: 10,
+            width: 3,
+            height: 5,
             origin: Vec2::ZERO,
             padding: Vec2::ZERO,
         }
@@ -24,16 +24,6 @@ impl Default for GridLayout {
 }
 
 impl GridLayout {
-    #[allow(dead_code)]
-    pub fn new(width: usize, height: usize) -> Self {
-        Self {
-            width,
-            height,
-            square_size: 16.,
-            origin: Vec2::default(),
-            padding: Vec2::default(),
-        }
-    }
 
     pub fn grid_to_world(&self, grid_pos: &GridPosition) -> Vec2 {
         Vec2::new(

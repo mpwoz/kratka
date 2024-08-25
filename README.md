@@ -24,7 +24,6 @@ This create includes plugins for building the following logical pieces of your g
 - movement between grid coordinates (smooth or stepwise)
 - simple collision detection
 
-
 ## Non-features
 
 These are either out of scope (for now) or explicit non-goals of this crate:

@@ -6,6 +6,8 @@ use bevy::prelude::*;
 
 pub mod grid_layout;
 
+pub mod dev_tools;
+
 #[derive(Component)]
 pub struct GridSprite;
 
