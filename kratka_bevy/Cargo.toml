@@ -6,5 +6,8 @@ license-file = "../LICENSE"
 edition = "2021"
 
 [dependencies]
-bevy = { version = "0.14.1", default-features = false }
+bevy = { version = "0.14.1" }
 kratka = { version = "^0.0.2", path = "../kratka" }
+
+[dev-dependencies]
+test-case = "3.3.1" # for data row unit tests

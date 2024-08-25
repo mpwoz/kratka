@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/kratka/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kratka_bevy/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kratka_ldtk/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kratka_bevy/examples" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
